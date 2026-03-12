@@ -191,17 +191,17 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["HTML", "Vite", "React JS", "Talwind CSS", "Vite"],
       github: "https://github.com/Elias587-ux/Porfolio-Personalgit add .",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      webapp: "https://portfolioeliasa.netlify.app/",
     },
     {
       id: 1,
       title: "Pagina Restaurante",
       description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+        "Una página web diseñada para un restaurante, con información sobre el menú, horarios y ubicación. Desarrollada con tecnologías frontend para ofrecer una experiencia de usuario atractiva y responsiva.",
       image: csprepLogo,
       tags: ["HTML", "CSS"],
       github: "https://github.com/Elias587-ux/Proyecto-Pagina-Web-Restaurant",
-      webapp: "https://csprep.netlify.app/",
+      webapp: "",
     },
     {
       id: 2,
@@ -211,7 +211,7 @@ export const SkillsInfo = [
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Elias587-ux/Proyecto-Pagina-de-cafe",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://proyectopaginacafe.netlify.app/",
     },
     {
       id: 7,
