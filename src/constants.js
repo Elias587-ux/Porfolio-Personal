@@ -190,7 +190,7 @@ export const SkillsInfo = [
         "Desarrollo de mi identidad digital utilizando las herramientas más eficientes del ecosistema frontend actual. Implementé Vite para garantizar un entorno de desarrollo ultrarrápido y Tailwind CSS para un diseño responsivo basado en utilidades, logrando una estética moderna con un rendimiento óptimo. El sitio destaca por su arquitectura de componentes reutilizables y una navegación fluida pensada en la experiencia del reclutador.",
       image: githubdetLogo,
       tags: ["HTML", "Vite", "React JS", "Talwind CSS", "Vite"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/Elias587-ux/Porfolio-Personalgit add .",
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
