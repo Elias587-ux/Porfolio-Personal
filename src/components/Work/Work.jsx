@@ -19,11 +19,10 @@ const Work = () => {
     >
       {/* Section Title */}
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold text-white">PROJECTS</h2>
+        <h2 className="text-4xl font-bold text-white">PROYECTOS</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          A showcase of the projects I have worked on, highlighting my skills
-          and experience in various technologies
+          Una muestra de los proyectos en los que he trabajado, destacando mis habilidades y experiencia en diversas tecnologías.
         </p>
       </div>
 
@@ -109,7 +108,7 @@ const Work = () => {
                     rel="noopener noreferrer"
                     className="w-1/2 bg-gray-800 hover:bg-purple-800 text-gray-400 lg:px-6 lg:py-2 px-2 py-1 rounded-xl lg:text-xl text-sm font-semibold text-center"
                   >
-                    View Code
+                    Ver Codigo
                   </a>
                   <a
                     href={selectedProject.webapp}
@@ -117,7 +116,7 @@ const Work = () => {
                     rel="noopener noreferrer"
                     className="w-1/2 bg-purple-600 hover:bg-purple-800 text-white lg:px-6 lg:py-2 px-2 py-1 rounded-xl lg:text-xl text-sm font-semibold text-center"
                   >
-                    View Live
+                    Ver en Vivo
                   </a>
                 </div>
               </div>

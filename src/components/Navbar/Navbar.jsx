@@ -29,11 +29,11 @@ const Navbar = () => {
   };
 
   const menuItems = [
-    { id: "about", label: "About" },
-    { id: "skills", label: "Skills" },
-    { id: "experience", label: "Experience" },
-    { id: "work", label: "Projects" },
-    { id: "education", label: "Education" },
+    { id: "about", label: "Sobre mi" },
+    { id: "skills", label: "Habilidades" },
+    { id: "experience", label: "Experiencia" },
+    { id: "work", label: "Proyectos" },
+    { id: "education", label: "Educacion" },
   ];
 
   return (
@@ -46,9 +46,9 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Tarun</span>
+          <span className="text-white">Elias</span>
           <span className="text-[#8245ec]">/</span>
-          <span className="text-white">Kaushik</span>
+          <span className="text-white">Arroyo</span>
           <span className="text-[#8245ec]">&gt;</span>
         </div>
 
@@ -71,7 +71,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/codingmastr"
+            href="https://github.com/Elias587-ux"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -79,7 +79,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+            href="https://www.linkedin.com/in/elias-eduardo-arroyo-090717392/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -122,7 +122,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/codingmastr"
+                href="https://github.com/Elias587-ux"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -130,7 +130,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+                href="https://www.linkedin.com/in/elias-eduardo-arroyo-090717392/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"

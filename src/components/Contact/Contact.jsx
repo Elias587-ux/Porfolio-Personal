@@ -56,17 +56,17 @@ const Contact = () => {
 
       {/* Section Title */}
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold text-white">CONTACT</h2>
+        <h2 className="text-4xl font-bold text-white">CONTACTO</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          I’d love to hear from you—reach out for any opportunities or questions!
+          Me encantaría saber de ti. ¡Comunícate con nosotros si tienes alguna duda o pregunta!
         </p>
       </div>
 
       {/* Contact Form */}
       <div className="mt-8 w-full max-w-md bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700">
         <h3 className="text-xl font-semibold text-white text-center">
-          Connect With Me <span className="ml-1">🚀</span>
+          Contacta conmigo <span className="ml-1">🚀</span>
         </h3>
 
         <form ref={form} onSubmit={sendEmail} className="mt-4 flex flex-col space-y-4">
@@ -104,7 +104,7 @@ const Contact = () => {
             type="submit"
             className="w-full bg-gradient-to-r from-purple-600 to-pink-500 py-3 text-white font-semibold rounded-md hover:opacity-90 transition"
           >
-            Send
+            Enviar
           </button>
         </form>
       </div>
