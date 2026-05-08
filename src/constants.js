@@ -190,7 +190,7 @@ export const SkillsInfo = [
       description:
         "Una página web diseñada para encontrar trabajo freelancer en el ámbito de la programación. El proyecto se centró en crear una plataforma intuitiva y eficiente que conecte a desarrolladores con oportunidades laborales, utilizando tecnologías modernas para garantizar una experiencia de usuario fluida y atractiva.",
       image: csprepLogo,
-      tags: ["HTML", "CSS"],
+      tags: ["HTML", "NextJS", "ReactJS", "TailwindCSS", "NodeJS", "ExpressJS", "MongoDB"],
       github: "https://github.com/FacundoZu/josby-backend",
       github: "https://github.com/FacundoZu/josby-frontend",
       webapp: "",
