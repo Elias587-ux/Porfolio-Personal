@@ -12,8 +12,8 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_axbtt7a",  // Replace with your EmailJS Service ID
-        "template_1ziboq3",  // Replace with your EmailJS Template ID
+        "service_445sbq4",  // Replace with your EmailJS Service ID
+        "template_34wrgnk",  // Replace with your EmailJS Template ID
         form.current,
         "Rz7W9pVF0HdDryNNL"  // Replace with your EmailJS Public Key
       )
@@ -59,7 +59,7 @@ const Contact = () => {
         <h2 className="text-4xl font-bold text-white">CONTACTO</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          Me encantaría saber de ti. ¡Comunícate con nosotros si tienes alguna duda o pregunta!
+          Me encantaría saber de ti. ¡Comunícate conmigo si tienes alguna duda o pregunta!
         </p>
       </div>
 
@@ -73,27 +73,27 @@ const Contact = () => {
           <input
             type="email"
             name="user_email"
-            placeholder="Your Email"
+            placeholder="Tu Email"
             required
             className="w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
           />
           <input
             type="text"
             name="user_name"
-            placeholder="Your Name"
+            placeholder="Tu nombre"
             required
             className="w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
           />
           <input
             type="text"
             name="subject"
-            placeholder="Subject"
+            placeholder="Asunto"
             required
             className="w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
           />
           <textarea
             name="message"
-            placeholder="Message"
+            placeholder="Mensaje"
             rows="4"
             required
             className="w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500"
