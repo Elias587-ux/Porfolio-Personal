@@ -227,10 +227,10 @@ const ConstellationBackground = () => {
       const fieldRgb = dark ? '200,210,255' : '60,60,150';
       const constRgb = dark ? '220,230,255' : '45,45,160';
       const lineRgb = dark ? '160,170,255' : '70,70,180';
-      const fAlpha = dark ? 0.25 : 0.09;
-      const cAlpha = dark ? 0.45 : 0.14;
-      const lAlpha = dark ? 0.22 : 0.08;
-      const maxAlpha = dark ? 0.58 : 0.28;
+      const fAlpha = dark ? 0.28 : 0.10;
+      const cAlpha = dark ? 0.58 : 0.20;
+      const lAlpha = dark ? 0.32 : 0.13;
+      const maxAlpha = dark ? 0.75 : 0.40;
 
       const par = parallaxRef.current;
       const tgt = targetParallaxRef.current;
@@ -246,7 +246,7 @@ const ConstellationBackground = () => {
       ctx.translate(par.x, par.y);
 
       // Constellation lines
-      ctx.lineWidth = dark ? 0.7 : 0.6;
+      ctx.lineWidth = dark ? 0.85 : 0.7;
       for (const [a, b] of constEdges) {
         const sa = constStars[a];
         const sb = constStars[b];
