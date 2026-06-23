@@ -139,7 +139,7 @@ const Navbar = () => {
 
             {/* Social links — desktop only */}
             <a
-              href="https://github.com/eliasarroyo17"
+              href="https://github.com/Elias587-ux"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: 'var(--color-text-secondary)', fontSize: '1.2rem', display: 'flex' }}
@@ -149,7 +149,7 @@ const Navbar = () => {
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com/in/eliasarroyo"
+              href="https://www.linkedin.com/in/elias-eduardo-arroyo-090717392/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: 'var(--color-text-secondary)', fontSize: '1.2rem', display: 'flex' }}

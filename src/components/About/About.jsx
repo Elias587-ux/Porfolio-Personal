@@ -100,7 +100,7 @@ const About = () => {
                 {t('hero.cta_contact')}
               </button>
               <a
-                href="/cv-elias-arroyo.pdf"
+                href="https://drive.google.com/file/d/1yOZpvBBT-wjxs4CZUnUizNXR1t29hvqy/view"
                 download
                 className="btn-outline"
                 style={{ textDecoration: 'none' }}
@@ -113,7 +113,7 @@ const About = () => {
             {/* Social links */}
             <div style={{ display: 'flex', gap: '1rem' }}>
               <a
-                href="https://github.com/eliasarroyo17"
+                href="https://github.com/Elias587-ux"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -143,7 +143,7 @@ const About = () => {
                 <FaGithub />
               </a>
               <a
-                href="https://linkedin.com/in/eliasarroyo"
+                href="https://www.linkedin.com/in/elias-eduardo-arroyo-090717392/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
