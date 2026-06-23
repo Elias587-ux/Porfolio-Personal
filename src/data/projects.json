@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "title": "Web Fundación Museos",
+    "titleEn": "Fundación Museos Website",
+    "description": "Sitio web institucional que funciona como cara digital de la institución para informar al público y herramienta de gestión interna para mantener la información actualizada.",
+    "descriptionEn": "Institutional website that serves as the digital face of the institution to inform the public, and as an internal management tool to keep information up to date.",
+    "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+    "imageKey": "webfundation",
+    "github": "https://github.com/eliasarroyo17",
+    "demo": ""
+  },
+  {
+    "id": 1,
+    "title": "GitHub Profile Detective",
+    "titleEn": "GitHub Profile Detective",
+    "description": "Aplicación React para buscar y visualizar perfiles de GitHub con estadísticas detalladas, repositorios y contribuciones en tiempo real.",
+    "descriptionEn": "React application to search and visualize GitHub profiles with detailed stats, repositories, and real-time contributions.",
+    "technologies": ["React JS", "JavaScript", "API REST", "CSS"],
+    "imageKey": "",
+    "github": "https://github.com/eliasarroyo17",
+    "demo": ""
+  }
+]

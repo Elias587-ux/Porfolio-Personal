@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full Stack Developer",
+    "description": "Passionate about building modern, scalable web applications. I bridge the gap between elegant frontends and robust backend systems.",
+    "cta_contact": "Contact Me",
+    "cta_cv": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I'm a Full Stack Developer currently studying Systems Analysis at Instituto de Educación Superior Nº11, with specialized training from Fundación Pescar in full stack web development and software engineering.",
+    "p2": "I have hands-on experience building web applications with modern technologies such as React, Node.js, JavaScript, and SQL/NoSQL databases. I'm driven by creating clean, efficient, and user-friendly digital experiences.",
+    "p3": "When I'm not coding, I'm exploring new technologies and working on personal projects to continuously sharpen my skills and stay ahead of the curve."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Technologies I work with"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic background"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Things I've built",
+    "view_demo": "Live Demo",
+    "view_code": "View Code"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Let's work together",
+    "name_label": "Full Name",
+    "name_placeholder": "Your name",
+    "email_label": "Email Address",
+    "email_placeholder": "your@email.com",
+    "subject_label": "Subject",
+    "subject_placeholder": "How can I help you?",
+    "message_label": "Message",
+    "message_placeholder": "Write your message here...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! I'll get back to you soon.",
+    "error": "Something went wrong. Please try again.",
+    "required": "This field is required",
+    "invalid_email": "Please enter a valid email address"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "made_with": "Made with"
+  }
+}

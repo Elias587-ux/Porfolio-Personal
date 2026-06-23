@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "role": "Full Stack Developer",
+    "description": "Apasionado por construir aplicaciones web modernas y escalables. Conecto frontends elegantes con sistemas backend robustos.",
+    "cta_contact": "Contáctame",
+    "cta_cv": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "p1": "Soy un Desarrollador Full Stack estudiando Análisis de Sistemas en el Instituto de Educación Superior Nº11, con formación especializada en Fundación Pescar en desarrollo web full stack e ingeniería de software.",
+    "p2": "Tengo experiencia práctica construyendo aplicaciones web con tecnologías modernas como React, Node.js, JavaScript y bases de datos SQL/NoSQL. Me impulsa crear experiencias digitales limpias, eficientes y amigables para el usuario.",
+    "p3": "Cuando no estoy programando, exploro nuevas tecnologías y trabajo en proyectos personales para perfeccionar constantemente mis habilidades y mantenerme actualizado."
+  },
+  "skills": {
+    "title": "Habilidades Técnicas",
+    "subtitle": "Tecnologías con las que trabajo"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "subtitle": "Mi trayectoria profesional"
+  },
+  "education": {
+    "title": "Educación",
+    "subtitle": "Mi formación académica"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Cosas que he construido",
+    "view_demo": "Ver Demo",
+    "view_code": "Ver Código"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Trabajemos juntos",
+    "name_label": "Nombre completo",
+    "name_placeholder": "Tu nombre",
+    "email_label": "Correo electrónico",
+    "email_placeholder": "tu@email.com",
+    "subject_label": "Asunto",
+    "subject_placeholder": "¿En qué puedo ayudarte?",
+    "message_label": "Mensaje",
+    "message_placeholder": "Escribe tu mensaje aquí...",
+    "submit": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito! Me pondré en contacto pronto.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "required": "Este campo es requerido",
+    "invalid_email": "Por favor ingresa un correo electrónico válido"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "made_with": "Hecho con"
+  }
+}
