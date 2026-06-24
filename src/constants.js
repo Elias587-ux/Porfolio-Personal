@@ -16,6 +16,7 @@ import netlifyLogo from './assets/tech.icon/netlify.png';
 import webfundationLogo from './assets/work/webfundation.jpeg';
 import institutoLogo from './assets/education/insituto.jpg';
 import fundacionpescarLogo from './assets/education/fundacionPescar.jpg';
+import wordcupLogo from './assets/projects/wordcup.png';
 
 export const SkillsInfo = [
   {
@@ -93,4 +94,5 @@ export const education = [
 
 export const workImageMap = {
   webfundation: webfundationLogo,
+  wordcup: wordcupLogo,
 };
