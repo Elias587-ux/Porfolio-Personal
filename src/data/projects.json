@@ -20,5 +20,17 @@
     "imageKey": "wordcup",
     "github": "https://github.com/Elias587-ux/album-figurita",
     "demo": ""
+  },
+  {
+    "id": 2,
+    "title": "Josby",
+    "titleEn": "Josby",
+    "description": "Sitio web Plataforma para ofrecer trabajos freelance (traducciones, diseño, clases particulares, edición de videos, etc.).Los clientes pueden chattear por privado. Mi participacion fue en el desarrollo del backend, incluyendo la creación de la base de datos, la implementación de la autenticación y autorización de usuarios, y la creación de endpoints para manejar las solicitudes de los clientes y freelancers.",
+    "descriptionEn": "Website platform to offer freelance jobs (translations, design, private lessons, video editing, etc.). Clients can chat privately. My participation was in the development of the backend, including the creation of the database, the implementation of user authentication and authorization, and the creation of endpoints to handle client and freelancer requests.",
+    "technologies": ["React JS", "Tailwind CSS", "Vite", "Node JS", "Express JS", "MongoDB", "Mongoose", "JWT", "Figma", "Cloudinary", "Jira"],
+    "imageKey": "webjosby",
+    "github": "https://github.com/FacundoZu/josby-backend",
+    "demo": ""
   }
+
 ]

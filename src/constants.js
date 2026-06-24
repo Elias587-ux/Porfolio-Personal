@@ -17,6 +17,7 @@ import webfundationLogo from './assets/work/webfundation.jpeg';
 import institutoLogo from './assets/education/insituto.jpg';
 import fundacionpescarLogo from './assets/education/fundacionPescar.jpg';
 import wordcupLogo from './assets/work/wordcup.png';
+import webjosbyLogo from './assets/work/josby.png';
 
 export const SkillsInfo = [
   {
@@ -95,4 +96,5 @@ export const education = [
 export const workImageMap = {
   webfundation: webfundationLogo,
   wordcup: wordcupLogo,
+  webjosby: webjosbyLogo,
 };
