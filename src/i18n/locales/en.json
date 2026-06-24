@@ -17,9 +17,8 @@
   },
   "about": {
     "title": "About Me",
-    "p1": "I'm a Full Stack Developer currently studying Systems Analysis at Instituto de Educación Superior Nº11, with specialized training from Fundación Pescar in full stack web development and software engineering.",
-    "p2": "I have hands-on experience building web applications with modern technologies such as React, Node.js, JavaScript, and SQL/NoSQL databases. I'm driven by creating clean, efficient, and user-friendly digital experiences.",
-    "p3": "When I'm not coding, I'm exploring new technologies and working on personal projects to continuously sharpen my skills and stay ahead of the curve."
+    "p1": "I am a Software Developer from Argentina focused on creating efficient digital solutions that generate a real impact on people. My practical experience centers on the comprehensive development of applications (Full Stack) using technologies such as JavaScript (React, Node.js, Express) and MongoDB, in addition to having a solid foundation in languages ​​such as Java and C++.",
+    "p2": " My technical profile is complemented by a level of English suitable for integrating into professional environments and a strong interest in innovative fields such as Artificial Intelligence. I am currently finishing my Advanced Vocational Training in Software Development and am constantly strengthening my knowledge."
   },
   "skills": {
     "title": "Technical Skills",

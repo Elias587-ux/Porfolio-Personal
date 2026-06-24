@@ -12,13 +12,13 @@
   },
   {
     "id": 1,
-    "title": "GitHub Profile Detective",
-    "titleEn": "GitHub Profile Detective",
-    "description": "Aplicación React para buscar y visualizar perfiles de GitHub con estadísticas detalladas, repositorios y contribuciones en tiempo real.",
-    "descriptionEn": "React application to search and visualize GitHub profiles with detailed stats, repositories, and real-time contributions.",
-    "technologies": ["React JS", "JavaScript", "API REST", "CSS"],
-    "imageKey": "",
-    "github": "https://github.com/eliasarroyo17",
+    "title": "Album Mundialista",
+    "titleEn": "World Cup album",
+    "description": "Aplicación web para coleccionar figuritas de jugadores de fútbol y completar un álbum digital. Los usuarios pueden buscar jugadores, ver sus estadísticas y agregar figuritas a su colección.",
+    "descriptionEn": "Web application for collecting football player stickers and completing a digital album. Users can search for players, view their statistics, and add stickers to their collection.",
+    "technologies": ["React JS", "JavaScript", "TypeScript", "CSS", "Supabase", "PostgreSQL", "Lovable", "Claude Code"],
+    "imageKey": "wordcup",
+    "github": "https://github.com/Elias587-ux/album-figurita",
     "demo": ""
   }
 ]
